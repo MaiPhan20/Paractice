@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ex2
+namespace Ex2_Paractice
 {
     class Animal
     {
