@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Ex2
+namespace Ex2_Paractice
 {
     class Lion:Animal
     {
